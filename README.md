@@ -1,11 +1,11 @@
 # Cricket-_Analysis_in_MySQL
-Analysis of Women's Premiere League using MySQL
 
-Functions used for the analysis:
-where, group by, order by, having, limit, Aggregate functions, Over & Partition by, Rank function
+Objective: To Analyse the Women's Premier League using MySQL.
 
-Advanced features used for the analysis:
-subquery, Case Statements, Common table expressions, Views, and Stored Procedures
+Analysis Procedure:
+1) Built Entity Relationship Diagram (ERD) and loaded data from CSV files
+2) Used functions like where, group by, order by, having, limit, Aggregate functions, Over & Partition by, Rank function
+3) Used Advanced features like subquery, Case Statements, Common table expressions, Views, and Stored Procedures
 
 Insights gathered:
 Insights from Women's Premiere Cricket League 2023:
